@@ -1,12 +1,10 @@
 <template>
-  <div>
-    <span>欢迎咨询</span>
-  </div>
+  <span>this the test page</span>
 </template>
 
 <script>
 export default {
-  name: 'home-footer'
+  name: 'test'
 }
 </script>
 
