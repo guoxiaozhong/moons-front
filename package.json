@@ -14,6 +14,7 @@
   "dependencies": {
     "axios": "^0.19.0",
     "element-ui": "^2.12.0",
+    "fuse.js": "^3.4.6",
     "js-cookie": "^2.2.1",
     "node-sass": "^4.13.0",
     "normalize.css": "^8.0.1",
@@ -21,6 +22,7 @@
     "path": "^0.12.7",
     "path-to-regexp": "^6.1.0",
     "sass-loader": "^7.3.1",
+    "screenfull": "^5.0.0",
     "svg-icon": "^0.8.2",
     "svg-sprite-loader": "^4.1.6",
     "vue": "^2.5.2",
